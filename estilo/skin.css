@@ -1,0 +1,88 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.wrap{ display:inline; width:150px; margin-left:10px;}
+#clock {
+	display:none;
+	position: relative;
+	width: 150px;
+	height: 150px;
+	margin: 8px auto 0 auto;
+	background: url(images/clockface.png);
+	list-style: none;
+	}
+#clock2 {
+	display:none;
+	position: relative;
+	width: 150px;
+	height: 150px;
+	margin: 8px auto 0 auto;
+	background: url(images/clockface.png);
+	list-style: none;
+	}
+#sec1, #min1, #hour1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	}
+
+#sec1 {
+	z-index: 3;
+   	}
+   
+#min1 {
+
+	z-index: 2;
+   	}
+   
+#hour1 {
+	z-index: 1;
+   	}
+
+#sec2, #min2, #hour2 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	}
+
+#sec2 {
+	z-index: 3;
+   	}
+   
+#min2 {
+
+	z-index: 2;
+   	}
+   
+#hour2 {
+	z-index: 1;
+   	}
+	
+#clock3 {
+	display:none;
+	position: relative;
+	width: 150px;
+	height: 150px;
+	margin: 8px auto 0 auto;
+	background: url(images/clockface.png);
+	list-style: none;
+	}
+#sec, #min, #hour {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	}
+
+#sec {
+	z-index: 3;
+   	}
+   
+#min {
+
+	z-index: 2;
+   	}
+   
+#hour {
+	z-index: 1;
+   	}	

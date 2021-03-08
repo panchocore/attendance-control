@@ -1,0 +1,36 @@
+<?php
+$Menu_Desplegable_Configurar_Sistema="Configurar Sistema";
+$Menu_Desplegable_Configurar_Sistema_Cambiar_Texto="Cambiar Texto";
+$Menu_Desplegable_Configurar_Sistema_Logo_EMpresarial="Logo empresarial";
+$Menu_Desplegable_Ayuda="Ayuda";
+$Menu_Desplegable_Ayuda_Ayuda="Ayuda";
+$Menu_Desplegable_Ayuda_Acerca_De="Acerca de";
+$Menu_Desplegable_Salir_Sistema="Salir del sistema";
+$Menu_Principal_Administrar="Administrar";
+$Menu_Principal_Administrar_Subtitulo_Empresa="Empresa";
+$Menu_Principal_Administrar_Datos_Generales="Datos Generales";
+$Menu_Principal_Administrar_Oganigrama="Organigrama";
+$Menu_Principal_Administrar_Subtitulo_Usuarios="Usuarios";
+$Menu_Principal_Administrar_Roles="Roles";
+$Menu_Principal_Administrar_Usuarios="Usuarios";
+$Menu_Principal_Empleados="Empleados";
+$Menu_Principal_Empleados_Subtitulo_Listar="Listar";
+$Menu_Principal_Empleados_Listado="Listado";
+$Menu_Principal_Empleados_Buscar="Buscar";
+$Menu_Principal_Empleados_Subtitulo_Empleados="Empleados";
+$Menu_Principal_Empleados_Nuevo="Nuevo";
+$Menu_Principal_Empleados_Editar="Editar";
+$Menu_Principal_Empleados_Eliminar="Eliminar";
+$Menu_Principal_Asistencia="Asistencia";
+$Menu_Principal_Asistencia_Subtitulo_Configurar="Configurar";
+$Menu_Principal_Asistencia_General="Listado";
+$Menu_Principal_Asistencia_Horarios_Trabajo="Horarios de Trabajo";
+$Menu_Principal_Asistencia_Subtitulo_Registrar="Registrar";
+$Menu_Principal_Asistencia_Ingreso="Ingreso";
+$Menu_Principal_Asistencia_Salida="Salida";
+$Menu_Principal_Asistencia_Modificar_Registros="Modificar Registros";
+$Menu_Principal_Ayuda="Ayuda";
+$Menu_Principal_Ayuda_Subtitulo_Ayuda="Ayuda";
+$Menu_Principal_Ayuda_Ayuda="Ayuda";
+$Menu_Principal_Ayuda_Acerca_de="Acerca de";
+?>
